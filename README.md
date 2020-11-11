@@ -6,6 +6,6 @@
 * [извлечение списка слов с толкованиями из словаря формата .dsl](https://github.com/victoriassazonova/corpora_instruments/blob/main/dsl_dict)
 * [скрипт для добавления слоя с морфологической разметкой к параллельному тексту](https://github.com/victoriassazonova/corpora_instruments/tree/main/analyze_aligned_text)
 * [конвертер полученных файлов для корпуса tsakorpus](https://github.com/victoriassazonova/corpora_instruments/tree/main/customtxt2json.py)
-* словарь hunalign
+* [словарь hunalign](https://github.com/victoriassazonova/corpora_instruments/tree/main/g.dic)
 
 #### Сам корпус пока доступен [здесь](https://drive.google.com/drive/folders/1LjB1m8oUrQo-YRfkNo48i9DdSsZGOpwN?usp=sharing)
