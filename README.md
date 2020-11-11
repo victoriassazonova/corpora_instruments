@@ -9,4 +9,11 @@
 * [словарь hunalign](https://github.com/victoriassazonova/corpora_instruments/tree/main/g.dic)
 
 #### Сам корпус пока доступен [здесь](https://drive.google.com/drive/folders/1LjB1m8oUrQo-YRfkNo48i9DdSsZGOpwN?usp=sharing)
+##### Для запуска необходимо:
+* скачать всю папку
+* запустить на компьютере elasticsearch 5.5 или 5.6
+* запустить скрипт indexator.py
+* запустить tsakorpus.wsgi
+* корпус будет доступен по адресу http://127.0.0.1:7342/search
+* более подробные инструкции есть внутри корпуса в папке docs
 ![alt text](img/corpus.png "Описание будет тут")
