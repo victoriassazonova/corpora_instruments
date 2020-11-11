@@ -9,3 +9,4 @@
 * [словарь hunalign](https://github.com/victoriassazonova/corpora_instruments/tree/main/g.dic)
 
 #### Сам корпус пока доступен [здесь](https://drive.google.com/drive/folders/1LjB1m8oUrQo-YRfkNo48i9DdSsZGOpwN?usp=sharing)
+![alt text](img/corpus.png "Описание будет тут")
