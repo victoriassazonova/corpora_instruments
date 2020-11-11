@@ -7,7 +7,7 @@
 * [скрипт для добавления слоя с морфологической разметкой к параллельному тексту](https://github.com/victoriassazonova/corpora_instruments/tree/main/analyze_aligned_text)
 * [конвертер полученных файлов для корпуса tsakorpus](https://github.com/victoriassazonova/corpora_instruments/tree/main/customtxt2json.py)
 * [словарь hunalign](https://github.com/victoriassazonova/corpora_instruments/tree/main/g.dic)
-* [разбиение на предложения для hunalign](https://github.com/victoriassazonova/corpora_instruments/tree/main/split_texts.py)
+* [разбиение на предложения для hunalign](https://github.com/victoriassazonova/corpora_instruments/blob/main/split_texts.ipynb)
 
 ### Сам корпус пока доступен [здесь](https://drive.google.com/drive/folders/1LjB1m8oUrQo-YRfkNo48i9DdSsZGOpwN?usp=sharing)
 #### Для запуска необходимо:
